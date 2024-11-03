@@ -1,0 +1,1996 @@
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    theta, x = run_sims(num_sims = 100)
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    theta, x = run_sims(num_sims = 100)
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                        File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    theta, x = run_sims(num_sims = 100)
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    parameter_range[0].append(0./DM_mass**2)
+Traceback (most recent call last):
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+Traceback (most recent call last):
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+Traceback (most recent call last):
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+Traceback (most recent call last):
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                   File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+                                                                         File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+Traceback (most recent call last):
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                        File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+                                                   File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                      Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                      Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+jobs/run9m_nonpoisson.py", line 256, in <module>
+  File "/home/chri3448/EPDF_ABC/gc_jobs/  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9    parameter_range[0].append(0./DM_mass    pNameError: name 'DM_mass' is not definedNameError: name 'DM_mass' Traceback (most recent call last):
+ls'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+Traceback (most recent call last):
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                        File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                        File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+                                                   File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+       File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+    parameter_range[0].append(0./DM_mass**2)
+Traceback (most recent call last):
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    theta, x = run_sims(num_sims = 100)
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+Traceback (most recent call last):
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+Traceback (most recent call last):
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                                                     Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+Traceback (most recent call last):
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+Traceback (most recent call last):
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+Traceback (most recent call last):
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                        File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+Traceback (most recent call last):
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+e 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+                       Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+Traceback (most recent call last):
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+Traceback (most recent call last):
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+    theta, x = run_sims(num_sims = 100)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+Traceback (most recent call last):
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+Traceback (most recent call last):
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+jobs/run9m_nonpoisson.py", line 160, in run_sims
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/NameError: name 'DM_mass' is not defined. Di    parameter_range[0]Traceback (most recent call last):
+Traceback (most recent call last):
+ou mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                        File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    theta, x = run_sims(num_sims = 100)
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    parameter_range[0].append(0./DM_mass**2)
+Traceback (most recent call last):
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+Traceback (most recent call last):
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+    theta, x = run_sims(num_sims = 100)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py",Traceback (most recent call last):
+ = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+                                                          Traceback (most recent call last):
+                                 File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+ 160, in run_sims
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+d you mean: 'DM_als'?
+Traceback (most recent call last):
+100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+jobs/run9m_nonpoisson.py", line 256, in <module>
+  File "/home/chri3448/EPDF_ABC/gc_jobs/  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9    parameter_range[0].append(0./DM_mass    pNameError: name 'DM_mass' is not definedNameError: name 'DM_mass' Traceback (most recent call last):
+ls'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+m_nonpoisson.py", line 160, in run_sims
+    theta, x = run_sims(num_sims = 100)
+**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+    theta, x = run_sims(num_sims = 100)
+run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                      Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+run9m_nonpoisson.py", line 160, in run_sims
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+ass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+Traceback (most recent call last):
+100)
+jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+**2)
+run9m_nonpoisson.py", line 160, in run_sims
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+ass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+Traceback (most recent call last):
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+Traceback (most recent call last):
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9    theta, x = run_sims(num_sims = 100)
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py",Traceback (most recent call last):
+r_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py",Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+                                                   File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                        File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/NameError: name 'DM_mass' is not defined. Di    theta, x = run_simTraceback (most recent call last):
+i3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    theta, x = run_sims(num_sims = 100)
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                           File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+                                                   File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+                                                theta, x = run_sims(num_sims = 100)
+. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                        File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+Traceback (most recent call last):
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    theta, x = run_sims(num_sims = 100)
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+ you mean: 'DM_als'?
+Traceback (most recent call lnot defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+                                                                                                                                                                                                                                                                                                        File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+Traceback (most recent call last):
+    parameter_range[0].append(0./DM_mass**2)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+    theta, x = run_sims(num_sims = 100)
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    parameter_range[0].append(0./DM_mass**2)
+    theta, x = run_sims(num_sims = 100)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 256, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9m_nonpoisson.py", line 160, in run_sims
+    parameter_range[0].append(0./DM_mass**2)
+NameError: name 'DM_mass' is not defined. Did you mean: 'DM_als'?

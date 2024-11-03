@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/train_run7-3_poisson_1m.py", line 60, in <module>
+    theta_batch, x_batch = np.load(sim_dir + sim, allow_pickle=True)
+  File "/opt/apps/software/lang/Anaconda3/2023.03-1/lib/python3.10/site-packages/numpy/lib/npyio.py", line 432, in load
+    return format.read_array(fid, allow_pickle=allow_pickle,
+  File "/opt/apps/software/lang/Anaconda3/2023.03-1/lib/python3.10/site-packages/numpy/lib/format.py", line 781, in read_array
+    array = pickle.load(fp, **pickle_kwargs)
+EOFError: Ran out of input

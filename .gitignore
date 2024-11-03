@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+__pycache__/
+astroLFI/__pycache__/
+astroLFI/sources/__pycache__/
+

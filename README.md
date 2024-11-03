@@ -1,4 +1,16 @@
-# SBIGC
-Code developed for the paper "Applying Simulation-Based Inference to Spectral and Spatial Information from the Galactic Center Gamma-Ray Excess" [2402.04549]
+# EPDF_ABC
 
-The LFI_galactic_center.py file in the astroLFI directory contains the class, which would later become AEGIS, used for generating simulations of the gamma-ray map of the galactic center due to potential millisecond pulsars, diffuse dark matter annihilation, and known astrophysical sources. These sources are contained in the sources directory. These simulations were used to train a neural network model using the sbi package from Mackelab. The files used for training can be found in the gc_jobs directory.
+Given models for spectra and luminosity statistics of multiple populations of sources, this code will analyze a photon data set to generate constraints on the model parameters using approximate Bayesian computation (ABC).
+
+Inputs:
+Description of source spectra and luminosity statistics.  The description of luminosity statistics can either be a luminosity function, or a photon count probability distribution function.
+
+Outputs:
+Samples from the model posterior.
+
+
+To test the code, run "python test.py" or take a look at the example Jupyter notebook, ExampleEPDFABC.ipynb.
+
+
+
+

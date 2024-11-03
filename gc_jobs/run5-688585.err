@@ -1,0 +1,20 @@
+/home/chri3448/EPDF_ABC/gc_jobs/../astroLFI/LFI_galactic_center.py:416: RuntimeWarning: invalid value encountered in arccos
+  earth_angles[:,1] = np.arccos(x/distances/np.sin(earth_angles[:,0]))
+/home/chri3448/EPDF_ABC/gc_jobs/../astroLFI/LFI_galactic_center.py:724: RuntimeWarning: invalid value encountered in divide
+  y_cdfs = np.cumsum(pdf, axis = 1)/np.tile(np.sum(pdf, axis = 1), (np.size(pdf[0,:]),1)).T
+Traceback (most recent call last):
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9c_nonpoisson.py", line 243, in <module>
+    theta, x = run_sims(num_sims = 100)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9c_nonpoisson.py", line 234, in run_sims
+    simulator, prior = prepare_for_sbi(simulator, prior)
+  File "/home/chri3448/.local/lib/python3.10/site-packages/sbi/utils/user_input_checks.py", line 629, in prepare_for_sbi
+    check_sbi_inputs(simulator, prior)
+  File "/home/chri3448/.local/lib/python3.10/site-packages/sbi/utils/user_input_checks.py", line 646, in check_sbi_inputs
+    simulation = simulator(theta)
+  File "/home/chri3448/.local/lib/python3.10/site-packages/sbi/utils/user_input_checks.py", line 551, in batch_loop_simulator
+    xs = list(map(simulator, theta))
+  File "/home/chri3448/.local/lib/python3.10/site-packages/sbi/utils/user_input_checks.py", line 515, in pytorch_simulator
+    return torch.as_tensor(simulator(theta), dtype=float32)
+  File "/home/chri3448/EPDF_ABC/gc_jobs/jobs/run9c_nonpoisson.py", line 231, in simulator
+    return np.sum(roi_map, axis = 0)
+NameError: name 'roi_map' is not defined
