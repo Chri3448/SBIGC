@@ -1,0 +1,51 @@
+analysis_settings:
+  galactic_plane_latitude_cut: 0.5 
+  binomial_trick_epsilon: 0.1
+  number_of_sims: 800
+  maximum_number_of_sources: 3e8
+  maximum_number_of_photons: 3e8
+obs_info:
+  exposure_map: None
+  expsoure_units: 'cm2 yr'
+  area: 2000.0     # cm^2
+  obs_time: 10.0   # yr
+  fov_factor: 0.2  # ((1- (np.sqrt(3)/2))/2)
+  Emax: 1000 # GeV
+  Emin: 1   # GeV
+  edisp_fits_path: './paper2/paper2_data/Fermi_files/edisp_P8R3_ULTRACLEANVETO_V2_PSF.fits'
+  event_type: 'PSF3'
+  psf_fits_path: './paper2/paper2_data/Fermi_files/psf_P8R3_ULTRACLEANVETO_V2_PSF.fits'
+sources:
+  DM:
+    type: unimplemented
+  fermi_isotropic:
+    type: unimplemented
+  fermi_anisotropic:
+    type: unimplemented
+  EG_PS:
+    type: luminosity function
+    number_density: LDDE
+    L_min: 1e42 # erg / s
+    L_max: 1e50 # erg / s 
+    L_bins: 1000
+    distance_min: 0.1
+    distance_max: 4.0
+    distance_bins: 100
+    alpha_photon_spectrum: 2.0
+summary_properties:
+  summary_type: 'energy_dependent_histogram'
+  map_type: 'healpix'
+  N_pix: 49152
+  log_energy_bins: True
+  N_energy_bins: 10
+  Emin: 1
+  Emax: 1000
+  galactic_plane_latitude_cut: 0.7 # corresponds to 40 degrees
+  histogram_properties:
+    Nbins: 10 
+    Cmax_hist: 10
+    Cmin_hist: 0
+    energy_bins_to_use: 'all'
+silent: False
+verbose: False
+debug: False
